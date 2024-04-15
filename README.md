@@ -9,11 +9,11 @@
 - Python v3.11.3
 
 ### Подготовка сервера
-- Перейти в папку optimize\flask-vue-crud\server
+- Перейти в папку optimize\server
 - Запустить виртуалку питона на сервере: env\Scripts\activate
 - Запустить приложение: flask run
 
 ### Подготовка фронта
-- Перейти в папку optimize\flask-vue-crud\client
+- Перейти в папку optimize\client
 - Запустить: npm run dev
 - Перейти по URL: http://localhost:5173

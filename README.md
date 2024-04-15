@@ -15,5 +15,5 @@
 
 ### Подготовка фронта
 - Перейти в папку optimize\client
-- Запустить: npm run dev
+- Запустить: npm run build
 - Перейти по URL: http://localhost:5173
